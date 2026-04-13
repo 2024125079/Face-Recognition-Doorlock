@@ -7,7 +7,7 @@
 
 2. 형상 항목 (파일 위치를 내 폴더 구조에 맞게 수정)
 구분      형상 항목                    파일 위치
-요구사항   과제1.프로젝트정의서         /docs/requirements
+요구사항   과제1.시스템 정의서         /docs/requirements
 		과제3.요구사항정의서				/docs/requirements
 		과제4.요구사항분석서				/docs/requirements
 설계      	과제5.소프트웨어설계서       /docs/design
